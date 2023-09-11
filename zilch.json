@@ -1,0 +1,9 @@
+{
+  "v": 1,
+  "name": "Tac Bot 9000",
+  "avatar": "fcQMSaaabqAWaaGaa",
+  "preferredColor": "turquoise",
+  "language": "python.3",
+  "game": "tic-tac-toe",
+  "run": "python3 -u ./main.py"
+}
